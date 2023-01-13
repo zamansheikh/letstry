@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455251575792",
+    "project_id": "letstry-and-finish",
+    "storage_bucket": "letstry-and-finish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455251575792:android:92289eee4fa6e236a29335",
+        "android_client_info": {
+          "package_name": "com.zamansheikh.letstry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455251575792-bu0ukki8pe98ojhs5kvugsp8uo0llk5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2eDgb6EoHIjSbjR-vR12TN3SnlsjnHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455251575792-bu0ukki8pe98ojhs5kvugsp8uo0llk5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
